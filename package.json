@@ -11,6 +11,7 @@
     "lint": "oxlint",
     "preview": "vite preview"
   },
+  "homepage": "https://miurhawk.github.io/miu/",
   "dependencies": {
     "@fontsource-variable/roboto": "^5.3.0",
     "@fontsource/fascinate": "^5.3.0",

@@ -8,7 +8,7 @@ import { Lines } from "./LInes/Lines.tsx";
 function App() {
 
   return (
-    <Router>
+    <Router basename={"/miu"}>
         <Routes>
             <Route path={"/*"} element={<Base />}>
                 <Route index element={<Home />} />
